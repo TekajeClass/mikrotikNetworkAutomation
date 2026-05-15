@@ -39,7 +39,7 @@ def configure_mikrotik(host, username, password, commands, device_name):
 # ==========================================
 # 1. KONFIGURASI SWITCH VLAN
 # ==========================================
-switch_ip = "100.100.10.2"                    # UBAH DENGAN IP MIKROTIK
+switch_ip = "100.100.10.2"                    # UBAH DENGAN IP BACKBONE MIKROTIK
 switch_user = "admin"
 switch_pass = ""
 

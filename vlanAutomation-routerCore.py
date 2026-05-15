@@ -38,7 +38,7 @@ def configure_mikrotik(host, username, password, commands, device_name):
 # ==========================================
 # 1. KONFIGURASI ROUTER-CORE
 # ==========================================
-router_ip = "172.31.236.240"                    # UBAH DENGAN IP MIKROTIK
+router_ip = "172.31.236.240"                    # UBAH DENGAN IP ROUTER MIKROTIK
 router_user = "admin"
 router_pass = ""
 
